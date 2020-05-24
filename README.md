@@ -41,7 +41,7 @@ Make sure to insert it **beetween the ``<head>`` tag** and **before your own sty
 
 If you're good with the default colors and the positioning, then you're done!
 
-If you want to customize the colors of your light and dark theme, let's push it a little bit further :
+If you want to customize the colors of your light and dark themes, let's push it a little bit further :
 
 ### 4. Optional : customize the script with your own themes colors
 
